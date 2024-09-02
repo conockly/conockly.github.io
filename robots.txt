@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conockly.github.io/sitemap.html.gz
+Sitemap: https://conockly.github.io/app/sitemap.html.gz
+Sitemap: https://conockly.github.io/assets/sitemap.html.gz
+Sitemap: https://conockly.github.io/css/sitemap.html.gz
+Sitemap: https://conockly.github.io/includes/sitemap.html.gz
+Sitemap: https://conockly.github.io/item/sitemap.html.gz
+Sitemap: https://conockly.github.io/src/sitemap.html.gz
